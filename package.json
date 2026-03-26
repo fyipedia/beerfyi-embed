@@ -1,0 +1,45 @@
+{
+  "name": "beerfyi-embed",
+  "version": "1.0.0",
+  "description": "Embed BeerFYI beer widgets — BJCP styles, hops, SRM colors, flavor radar. Zero dependencies, Shadow DOM, 4 themes.",
+  "main": "dist/embed.min.js",
+  "module": "dist/embed.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "beer",
+    "BJCP",
+    "IPA",
+    "lager",
+    "ale",
+    "hops",
+    "malt",
+    "SRM",
+    "IBU",
+    "embed",
+    "widget",
+    "beerfyi",
+    "beerfyi.com",
+    "shadow-dom",
+    "zero-dependencies",
+    "fyipedia",
+    "drinkfyi"
+  ],
+  "homepage": "https://widget.beerfyi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyipedia/beerfyi-embed"
+  },
+  "bugs": {
+    "url": "https://github.com/fyipedia/beerfyi-embed/issues"
+  },
+  "license": "MIT",
+  "author": "FYIPedia <dev@fyipedia.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}

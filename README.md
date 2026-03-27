@@ -122,7 +122,7 @@ Use `style-variant` (not `style`) to avoid conflicts with the HTML reserved `sty
 ### Specific version (production stability)
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/beerfyi-embed@1.1.1/dist/embed.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/beerfyi-embed@1.1.2/dist/embed.min.js"></script>
 ```
 
 ### npm (for bundlers)

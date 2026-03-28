@@ -46,7 +46,7 @@ That's it. The widget fetches data from the BeerFYI API and renders with full st
 | `data-beerfyi` | recipe, compare, glossary, faq, guide, ingredient, pairing, search, [tools] | required | Widget type |
 | `data-slug` | e.g. "styles" | — | Entity slug from the BeerFYI database |
 | `data-theme` | light, dark, sepia, auto | light | Visual theme (`auto` follows OS preference) |
-| `data-style` | modern, classic | modern | Widget design style |
+| `data-styleVariant` | modern, classic | modern | Widget design style |
 | `data-size` | default, compact, large | default | Widget size |
 | `data-placeholder` | any string | "Search Beer Styles..." | Search box placeholder |
 

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# BeerFYI Embed Widget
+# Main site: https://beerfyi.com
+# Widget docs: https://widget.beerfyi.com
+# npm: https://www.npmjs.com/package/beerfyi-embed
